@@ -22,7 +22,7 @@
       "title": "Berry Bliss Burst",
       "Flavour": "berry",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      "imageUrl":"/assets/8.png",
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "title": "Lemon Sorbet Spark",
       "Flavour": "lemon",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      "imageUrl":"/assets/8.png",
     },
     {
       "id": 5,
