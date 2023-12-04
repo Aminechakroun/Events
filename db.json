@@ -39,7 +39,7 @@
       "id": 6,
       "category": "cone",
       "title": "Raspberry Ripple Fantasy",
-      "Flavour": "rasberry",
+      "Flavour": "raspberry",
       "price": "2.99$"
     },
     {
@@ -74,7 +74,7 @@
       "id": 11,
       "category": "cone",
       "title": "Blue Moonlight Mystery",
-      "Flavour": "chewngum",
+      "Flavour": "chewing gum",
       "price": "2.99$"
     },
     {
@@ -104,8 +104,6 @@
       "title": "Caramel Swirl Delight",
       "Flavour": "caramel",
       "price": "1.99$"
-    },
-   
-   
+    }
   ]
 }
