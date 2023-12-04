@@ -8,6 +8,15 @@
       "price": "3.99$",
       "imageSrc": "8.png"
   
+    },
+     {
+      "id": 1,
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "3.99$",
+      "imageSrc": "9.png"
+  
     }
   ]
 }
