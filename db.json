@@ -13,7 +13,8 @@
       "category": "cone",
       "title": "velvet vanilla",
       "Flavour": "vanilla",
-      "price": "1.99$"
+      "price": "1.99$",
+      "imageUrl": "../assets/8.png"
       
     },
     {
