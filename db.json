@@ -2,36 +2,110 @@
   "ices": [
     {
       "id": 1,
-      "category": "bien-etre animal",
-      "title": "Journée d'adoption des chats",
-      "description": "Trouvez votre nouvel ami félin lors de cet événement",
-      "location": "Doggy Town",
-      "date": "28 January 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Leonel"
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "2.99$"
     },
     {
       "id": 2,
-      "category": "bien-etre animal",
-      "title": "Journée d'adoption des chats",
-      "description": "Trouvez votre nouvel ami félin lors de cet événement",
-      "location": "Meow Town",
-      "date": "28 January 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Leo"
+      "category": "cone",
+      "title": "velevet vanilla",
+      "Flavour": "vanilla",
+      "price": "1.99$"
     },
     {
       "id": 3,
-      "category": "bien-etre animal",
-      "title": "Journée d'adoption des chats",
-      "description": "Trouvez votre nouvel ami félin lors de cet événement",
-      "location": "Meow Town",
-      "date": "28 January 2022",
-      "time": "12:00",
-      "petsAllowed": true,
-      "organizer": "Amine Chakroun"
-    }
+      "category": "cone",
+      "title": "Berry Bliss Burst",
+      "Flavour": "berry",
+      "price": "1.99$"
+    },
+    {
+      "id": 4,
+      "category": "cone",
+      "title": "Lemon Sorbet Spark",
+      "Flavour": "lemon",
+      "price": "1.99$"
+    },
+    {
+      "id": 5,
+      "category": "cone",
+      "title": "Pistachio Paradise",
+      "Flavour": "pistachio",
+      "price": "1.99$"
+    },
+    {
+      "id": 6,
+      "category": "cone",
+      "title": "Raspberry Ripple Fantasy",
+      "Flavour": "rasberry",
+      "price": "2.99$"
+    },
+    {
+      "id": 7,
+      "category": "cone",
+      "title": "Cookies 'n Cream Carnival",
+      "Flavour": "cookies",
+      "price": "1.99$"
+    },
+    {
+      "id": 8,
+      "category": "cone",
+      "title": "Tropical Mango Tango",
+      "Flavour": "mango",
+      "price": "1.99$"
+    },
+    {
+      "id": 9,
+      "category": "cone",
+      "title": "Hazelnut Heaven",
+      "Flavour": "hazelnut",
+      "price": "1.99$"
+    },
+    {
+      "id": 10,
+      "category": "cone",
+      "title": "Strawberry Shortcake Symphony",
+      "Flavour": "strawberry",
+      "price": "1.99$"
+    },
+    {
+      "id": 11,
+      "category": "cone",
+      "title": "Blue Moonlight Mystery",
+      "Flavour": "chewngum",
+      "price": "2.99$"
+    },
+    {
+      "id": 12,
+      "category": "cone",
+      "title": "Coconut Crunch Oasis",
+      "Flavour": "coconut",
+      "price": "1.99$"
+    },
+    {
+      "id": 13,
+      "category": "cone",
+      "title": "Espresso Euphoria",
+      "Flavour": "coffee",
+      "price": "1.99$"
+    },
+    {
+      "id": 14,
+      "category": "cone",
+      "title": "Blueberry Cheesecake Cascade",
+      "Flavour": "blueberry",
+      "price": "1.99$"
+    },
+    {
+      "id": 15,
+      "category": "cone",
+      "title": "Caramel Swirl Delight",
+      "Flavour": "caramel",
+      "price": "1.99$"
+    },
+   
+   
   ]
 }
