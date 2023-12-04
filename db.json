@@ -6,7 +6,7 @@
       "title": "Minty chocolate dream",
       "Flavour": "chocolate",
       "price": "2.99$",
-      "imageUrl":"../assets/8.png",
+     
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "title": "velvet vanilla",
       "Flavour": "vanilla",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "title": "Berry Bliss Burst",
       "Flavour": "berry",
       "price": "1.99$",
-      "imageUrl":"/assets/8.png",
+     
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "title": "Lemon Sorbet Spark",
       "Flavour": "lemon",
       "price": "1.99$",
-      "imageUrl":"/assets/8.png",
+
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "title": "Pistachio Paradise",
       "Flavour": "pistachio",
      "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+    
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "title": "Raspberry Ripple Fantasy",
       "Flavour": "raspberry",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "title": "Cookies 'n Cream Carnival",
       "Flavour": "cookies",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+     
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "title": "Tropical Mango Tango",
       "Flavour": "mango",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "title": "Hazelnut Heaven",
       "Flavour": "hazelnut",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+     
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "title": "Strawberry Shortcake Symphony",
       "Flavour": "strawberry",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+    
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "title": "Blue Moonlight Mystery",
       "Flavour": "chewing gum",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "title": "Coconut Crunch Oasis",
       "Flavour": "coconut",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+    
     },
     {
       "id": 13,
@@ -102,7 +102,7 @@
       "title": "Espresso Euphoria",
       "Flavour": "coffee",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+
     },
     {
       "id": 14,
@@ -110,7 +110,7 @@
       "title": "Blueberry Cheesecake Cascade",
       "Flavour": "blueberry",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+     
     },
     {
       "id": 15,
@@ -118,7 +118,7 @@
       "title": "Caramel Swirl Delight",
       "Flavour": "caramel",
       "price": "1.99$",
-      "imageUrl":"../assets/8.png",
+      
     }
   ]
 }
