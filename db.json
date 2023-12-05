@@ -3,26 +3,26 @@
     {
       "id": 1,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
-      "price": "4.99$",
-      "imageSrc": "88.png"
+      "title": "Lemon Sorbet Spark",
+      "Flavour": "Lemon",
+      "price": "2.99$",
+      "imageSrc": "1.png"
   
     },
      {
       "id": 2,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
-      "price": "3.99$",
+      "title": "Minty candy dream",
+      "Flavour": "candy",
+      "price": "2.99$",
       "imageSrc": "99.png"
   
     },
      {
       "id": 3,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
+      "title": "Blue Moonlight Mystery",
+      "Flavour": "Raseberry",
       "price": "3.99$",
       "imageSrc": "6.png"
   
@@ -32,24 +32,24 @@
       "category": "cone",
       "title": "Minty chocolate dream",
       "Flavour": "chocolate",
-      "price": "3.99$",
+      "price": "2.99$",
       "imageSrc": "11.png"
   
     },
      {
       "id": 5,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
-      "price": "3.99$",
+      "title": "Caramel Swirl Delight",
+      "Flavour": "caramel",
+      "price": "1.99$",
       "imageSrc": "2.png"
   
     },
      {
       "id": 6,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
+      "title": "Raspberry Ripple Fantasy",
+      "Flavour": "berry",
       "price": "3.99$",
       "imageSrc": "4.png"
   
@@ -57,8 +57,8 @@
      {
       "id": 7,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
+      "title": "Hazelnut Heaven",
+      "Flavour": "Hazelnut",
       "price": "3.99$",
       "imageSrc": "13.png"
   
@@ -66,19 +66,46 @@
      {
       "id": 8,
       "category": "cone",
-      "title": "Minty chocolate dream",
-      "Flavour": "chocolate",
+      "title": "Pistachio Paradise",
+      "Flavour": "Pistachio",
       "price": "3.99$",
       "imageSrc": "55.png"
   
     },
      {
       "id": 9,
-      "category": "cone",
-      "title": "Minty chocolate dream",
+      "category": "bowl",
+      "title": "vanny choco cup",
       "Flavour": "chocolate",
-      "price": "3.99$",
+      "price": "4.99$",
       "imageSrc": "12.png"
+  
+    },
+     {
+      "id": 10,
+      "category": "cone",
+      "title": "Strawberry Shortcake Symphony",
+      "Flavour": "Strawberry",
+      "price": "1.99$",
+      "imageSrc": "3.png"
+  
+    },
+     {
+      "id": 11,
+      "category": "cone",
+      "title": "velvette vanilla",
+      "Flavour": "vanilla",
+      "price": "1.99$",
+      "imageSrc": "10.png"
+  
+    },
+     {
+      "id": 12,
+      "category": "cone",
+      "title": "Coconut Crunch Oasis",
+      "Flavour": "Coconut",
+      "price": "4.99$",
+      "imageSrc": "88.png"
   
     }
     
