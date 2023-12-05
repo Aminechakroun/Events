@@ -2,11 +2,11 @@
   "ices": [
     {
       "id": 1,
-      "category": "cone",
-      "title": "Lemon Sorbet Spark",
+      "category": "bowl",
+      "title": "Rainbow Sorbet Spark",
       "Flavour": "Lemon",
-      "price": "2.99$",
-      "imageSrc": "1.png"
+      "price": "4.99$",
+      "imageSrc": "14.png"
   
     },
      {
@@ -56,11 +56,11 @@
     },
      {
       "id": 7,
-      "category": "cone",
-      "title": "Hazelnut Heaven",
+      "category": "bowl",
+      "title": "Creamy Ice Balls",
       "Flavour": "Hazelnut",
       "price": "3.99$",
-      "imageSrc": "13.png"
+      "imageSrc": "16.png"
   
     },
      {
@@ -106,6 +106,33 @@
       "Flavour": "Coconut",
       "price": "4.99$",
       "imageSrc": "88.png"
+  
+    },
+     {
+      "id": 13,
+      "category": "cone",
+      "title": "Hazelnut Heaven",
+      "Flavour": "Hazelnut",
+      "price": "3.99$",
+      "imageSrc": "13.png"
+  
+    },
+    {
+      "id": 14,
+      "category": "cone",
+      "title": "Lemon Sorbet Spark",
+      "Flavour": "Lemon",
+      "price": "2.99$",
+      "imageSrc": "1.png"
+  
+    },
+    {
+      "id": 15,
+      "category": "bowl",
+      "title": "Caramel ice fall",
+      "Flavour": "Lemon",
+      "price": "2.99$",
+      "imageSrc": "15.png"
   
     }
     
