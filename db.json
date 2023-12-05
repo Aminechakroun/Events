@@ -6,17 +6,53 @@
       "title": "Minty chocolate dream",
       "Flavour": "chocolate",
       "price": "2.99$",
-      "imageSrc": "8.png"
+      "imageSrc": "88.png"
   
     },
      {
-      "id": 1,
+      "id": 2,
       "category": "cone",
       "title": "Minty chocolate dream",
       "Flavour": "chocolate",
       "price": "3.99$",
-      "imageSrc": "9.png"
+      "imageSrc": "99.png"
+  
+    },
+    {
+      "id": 3,
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "3.99$",
+      "imageSrc": "1.png"
+  
+    },
+    {
+      "id": 4,
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "3.99$",
+      "imageSrc": "2.png"
+  
+    },
+    {
+      "id": 5,
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "3.99$",
+      "imageSrc": "3.png"
+  
+    }{
+      "id": 6,
+      "category": "cone",
+      "title": "Minty chocolate dream",
+      "Flavour": "chocolate",
+      "price": "3.99$",
+      "imageSrc": "4.png"
   
     }
+    
   ]
 }
